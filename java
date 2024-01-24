@@ -54,8 +54,8 @@ Inheritance:
 When one object acquires all the properties and behaviours of a parent object, it is known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism.
 1.Single-level-inheritance
 2.Multi-level-inheritance
-3.Hybrid inheritance
-4.hierarchies inheritance
+3.hierarchies inheritance
+4.hybrid inheritance
 
 Polymorphism:
 If one task is performed in different ways, it is known as polymorphism.
